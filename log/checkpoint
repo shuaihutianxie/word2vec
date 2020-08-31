@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\PycharmWorkspace\\word2vec\\log\\model.ckpt"
+all_model_checkpoint_paths: "D:\\PycharmWorkspace\\word2vec\\log\\model.ckpt"
